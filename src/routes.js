@@ -1,4 +1,10 @@
-import { addBookHandler, deleteBookById, getBookByIdHanlder, getBooksHandler, updateBookById } from './handler.js';
+import {
+  addBookHandler,
+  deleteBookById,
+  getBookByIdHanlder,
+  getBooksHandler,
+  updateBookById
+} from './handler.js';
 
 const routes = [
   {
